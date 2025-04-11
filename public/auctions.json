@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leica M3 Camera",
+      "description": "Classic brown leather bag in great condition.",
+      "currentBidPrice": 275.00,
+      "timeLeft": "2h 15m",
+      "bidsCount": 8,
+      "image": "https://i.ibb.co.com/00HVVsw/Bid1-min.png"
+    },
+    
+    {
+      "id": 2,
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "description": "1900s mechanical pocket watch, fully functional.",
+      "currentBidPrice": 120.00,
+      "timeLeft": "3h 42m",
+      "bidsCount": 14,
+      "image": "https://i.ibb.co.com/B51SKYd4/Bid2-min.png"
+    },
+    {
+      "id": 3,
+      "title": "Original Apple Macintosh 128K (1984)",
+      "description": "Abstract painting on canvas, 36x24 inches.",
+      "currentBidPrice": 230.00,
+      "timeLeft": "1d 4h",
+      "bidsCount": 21,
+      "image": "https://i.ibb.co.com/W48LBBdX/Bid3-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Rolex Submariner 16610",
+      "description": "RTX 3060, i7, 16GB RAM, 512GB SSD.",
+      "currentBidPrice": 950.00,
+      "timeLeft": "5h 10m",
+      "bidsCount": 32,
+      "image": "https://i.ibb.co.com/6crZGtMF/Bid4-min.png"
+    },
+    {
+      "id": 5,
+      "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+      "description": "Red Fender Stratocaster with amp.",
+      "currentBidPrice": 410.00,
+      "timeLeft": "2d 3h",
+      "bidsCount": 17,
+      "image": "https://i.ibb.co.com/23kD1Z6W/Bid5-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Mid-Century Modern Eames Lounge Chair",
+      "description": "Die-cast vintage car model, limited edition.",
+      "currentBidPrice": 160.00,
+      "timeLeft": "6h 55m",
+      "bidsCount": 11,
+      "image": "https://i.ibb.co.com/d4DVh0Bz/Bid6-min.png"
+    },
+    {
+      "id": 7,
+      "title": "Banksy Original Screen Print",
+      "description": "Another rare collectible.",
+      "currentBidPrice": 150.00,
+      "timeLeft": "1d 1h",
+      "bidsCount": 5,
+      "image": "https://i.ibb.co.com/Ppr1RVS/Bid7-min.png"
+    }
+  ]
+  
